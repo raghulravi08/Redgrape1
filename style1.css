@@ -1,0 +1,133 @@
+body{
+    background-color:  rgb(247, 245, 224);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header,section,footer{
+    border: 1px solid rgb(23, 23, 24);
+    border-radius: 1px;
+}
+header{
+    padding: 50;
+}
+footer{
+    padding: 0px;
+    width: 1489px;
+    margin-left: 13.5px;
+ 
+    background-color: #00193c;
+} 
+ nav{
+    padding: 340px 0;
+    width:50px;
+    border: 2px solid rgb(23, 23, 24);
+    border-radius: 1px;
+   
+ }
+ section{
+    padding: 0px 0;
+    width: 1435px;
+    background-color: #00193c;
+ }
+ .container{
+    
+    width: 1490px;
+    margin: 0 auto;
+    
+ }
+
+ nav,section{
+    
+    float:left;
+ }
+
+header{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #abc7ab;
+    padding: 3px;
+  
+}
+span{
+    margin-right: 15px;
+  }
+.forms{
+    text-align: center;
+}
+#form-search{
+    width: 450px;
+    line-height: 25px;
+    padding: 4px 5px;
+    border-radius: 3px;
+  
+}
+li{
+    display:inline;
+    list-style-type: none;
+    margin-right: 25px;
+    color: #abc7ab; 
+  
+}
+ol{
+    margin-top: 1000px;
+   }
+   .box2{
+    
+        width: 1305px;
+        border: 2px solid black;
+        padding: 65px;
+        margin-left:51px;
+    }
+.box3{
+  color: #00193c ;
+  font-size: 22px;
+  text-align: left;
+  
+
+}
+.box4{
+    color: #00193c ;
+    font-size: 22px;
+  text-align: left;
+}
+.box5{
+    color: #00193c ;
+}
+.box6{
+    margin-right: 10px ;
+    margin-left: 0;
+    float: left;
+}
+.box7{
+    color: #00193c ;
+  margin-right: 10px;
+    padding: 225px;
+    margin-left: 30px;
+}
+
+p{
+    color:black;
+    text-align:left;
+}
+a {
+    color:white;
+    
+        text-decoration: none;
+      
+  }
+  .table{
+    width: 1223px;
+    border: 2px solid black;
+    height: 334px;
+    padding: 106px;
+    margin-left:66px;
+    background-image: url("https://cdn.wallpapersafari.com/33/86/t4B5Kc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+h4{
+    color:white;
+    text-align:right;
+}
